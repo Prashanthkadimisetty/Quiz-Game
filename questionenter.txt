@@ -1,0 +1,17 @@
+
+
+
+
+
+                                  ******************************************
+	                                    QUESTION ENTERING MENU
+                                  *****************************************
+                                     1.Information & Technology
+                                     2.Sports
+                                     3.General Knowledge
+                                     4.Entertainment
+                                     5.Geography
+                                     6.World History
+                                     7.Indian History And Freedom Fighters
+                                     8.Mind Teasers
+                                  *******************************************

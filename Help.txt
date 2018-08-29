@@ -1,0 +1,20 @@
+
+
+
+
+
+                  *********************************************************************************
+                                          HELP FOR THE GAME
+                  *********************************************************************************
+                     >>IF u wanna Play the game. Then Select New Game By clicking '1',Select any
+	                Category of ur choice and then enter ur details .
+                     >>Each Game consist of 10 questions,On answering each question player gets some
+                        Points.
+                     >> You will be given 4 options and you have to press A, B ,C or D for the
+                        selecting an option.
+                     >>IF The player selects the correct option He will be awarded with 10 points .
+                     >>IF player selects wrong option He will Player gets -5. 
+                     >>Player also can PASS a question if he doesnt want to answer it .
+                       He will not Get any point for passing a question.
+                     >>Player has to Simply click '$'to PASS a question.
+                  **********************BEST OF LUCK!!**********************************************

@@ -1,0 +1,15 @@
+
+
+
+
+
+                                     *****************************************
+	                                          WELCOME ADMIN
+                                     *****************************************
+                                        1.RESET WHOLE GAME
+                                        2.ADD QUESTIONS
+                                        3.CHANGE ADMIN PASSWORD
+                                        4.LOGOUT
+                                        5.QUESTIONS LIST
+                                        6.EXIT
+                                     *****************************************
